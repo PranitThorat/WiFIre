@@ -50,7 +50,7 @@ No advanced Linux skills needed — everything installs and runs with a few simp
 1. **Select your Wi-Fi interface**
 2. **Scan starts in a new terminal, CTRL+C when you see your target**
 3. **Pick a target**
-4. **WiFIre launches deauth attacks and captures the handshake**
+4. **WiFire launches deauth attacks and captures the handshake**
 5. **If handshake is captured, it cracks the password LIVE**
 6. **When done, network will be restored automatically!**
 
