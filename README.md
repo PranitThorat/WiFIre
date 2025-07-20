@@ -9,7 +9,6 @@ No advanced Linux skills needed — everything installs and runs with a few simp
 - ☠️ **Deauthentication** to force handshake
 - 📶 **Live handshake capture**
 - 🔑 **Real-time password cracking**
-- 🎨 Cool banners & animations
 - 💡 Installs all dependencies for you!
 
 ---
